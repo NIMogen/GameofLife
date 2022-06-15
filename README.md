@@ -1,6 +1,6 @@
 Conways Game of Life implemented in Rust. It's working, but there's still quite a bit to do...
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/GameofLife/life.gif)
 
 ## Todo
 - Clean up functions + clear up clippy warnings
