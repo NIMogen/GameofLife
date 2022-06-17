@@ -83,7 +83,6 @@ impl Grid {
         for row in 0..self.grid.len() {
             for col in 0..self.grid[row].len() {
                 let live_neighbors = self.count_neighbors(row, col);
-
                 if (self.grid[row][col] == 1 && (live_neighbors == 2 || live_neighbors == 3)) ||
                    (self.grid[row][col] == 0 && live_neighbors == 3) {
                     newgrid.grid[row][col] = 1;
