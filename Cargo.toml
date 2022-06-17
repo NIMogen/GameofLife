@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 rand = "*"
-cursive = { version = "0.18", features = ["toml"] }
+# cursive = { version = "0.18", features = ["toml"] } Not needed yet!
