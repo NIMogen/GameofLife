@@ -1,4 +1,4 @@
-Conways Game of Life implemented in Rust. It's working, but there's still quite a bit to do...
+Implmentation of the game of life in Rust that I wrote for fun. It's working, but there's still quite a bit I'd like to do with this.
 
 ![](https://github.com/NIMogen/GameofLife/blob/main/life.gif)
 
