@@ -99,7 +99,7 @@ impl Grid {
             for j in i.iter() {
                 let txt: String;
                 if *j == 1 {
-                    txt = String::from("@");
+                    txt = String::from("*");
                 }
                 else {
                     txt = String::from(" ");
