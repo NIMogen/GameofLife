@@ -4,5 +4,4 @@ Implmentation of the game of life in Rust that I wrote for fun. It's working, bu
 
 ## Todo
 - Clean up functions + clear up clippy warnings
-- Make a pretty view with cursive or tui-rs
-- Split up project into seperate files
+- Gif is laggy
